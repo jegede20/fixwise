@@ -1,0 +1,20 @@
+<svg width="760" height="900" viewBox="0 0 760 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="760" height="900" fill="#F1F1EE"/>
+<g opacity=".55" stroke="#DEDEDA"><path d="M40 0v900M104 0v900M168 0v900M232 0v900M296 0v900M360 0v900M424 0v900M488 0v900M552 0v900M616 0v900M680 0v900M744 0v900"/><path d="M0 60h760M0 124h760M0 188h760M0 252h760M0 316h760M0 380h760M0 444h760M0 508h760M0 572h760M0 636h760M0 700h760M0 764h760M0 828h760M0 892h760"/></g>
+<rect x="70" y="114" width="620" height="675" fill="#FAFAF9" stroke="#1A1A1A" stroke-width="2"/>
+<path d="M70 174h620" stroke="#1A1A1A"/><circle cx="103" cy="144" r="5" fill="#D4451A"/><text x="123" y="150" fill="#1A1A1A" font-family="Arial,sans-serif" font-size="13" font-weight="700" letter-spacing="2">HOME SYSTEM / 04</text><text x="614" y="150" fill="#6B6B6B" font-family="monospace" font-size="11">SCAN</text>
+<!-- refrigerator -->
+<g stroke="#1A1A1A" stroke-width="2"><rect x="106" y="250" width="158" height="393" fill="white"/><path d="M106 389h158M235 277v82M235 418v82"/><path d="M117 643v13M253 643v13"/></g>
+<text x="107" y="222" fill="#6B6B6B" font-family="monospace" font-size="10" letter-spacing="1">01 / COLD STORAGE</text>
+<!-- washer -->
+<g stroke="#1A1A1A" stroke-width="2"><rect x="300" y="372" width="185" height="271" fill="white"/><path d="M300 432h185"/><circle cx="393" cy="526" r="61"/><circle cx="393" cy="526" r="47" fill="#E2E7E7"/><circle cx="451" cy="402" r="12"/><path d="M318 400h57"/><path d="M311 643v13M474 643v13"/></g>
+<text x="301" y="345" fill="#6B6B6B" font-family="monospace" font-size="10" letter-spacing="1">02 / LAUNDRY</text>
+<!-- range -->
+<g stroke="#1A1A1A" stroke-width="2"><rect x="520" y="316" width="134" height="327" fill="white"/><rect x="534" y="412" width="106" height="162"/><rect x="548" y="433" width="78" height="112" fill="#ECECE9"/><path d="M520 389h134M520 588h134"/><circle cx="542" cy="351" r="7"/><circle cx="572" cy="351" r="7"/><circle cx="602" cy="351" r="7"/><circle cx="632" cy="351" r="7"/><ellipse cx="553" cy="300" rx="27" ry="10"/><ellipse cx="621" cy="300" rx="27" ry="10"/><path d="M531 643v13M643 643v13"/></g>
+<text x="521" y="266" fill="#6B6B6B" font-family="monospace" font-size="10" letter-spacing="1">03 / COOKING</text>
+<!-- diagnostic target -->
+<g stroke="#D4451A" stroke-width="3"><path d="M278 476h-24v24M278 576h-24v-24M508 476h24v24M508 576h24v-24"/><path d="M504 526h78"/></g><circle cx="393" cy="526" r="5" fill="#D4451A"/><rect x="564" y="496" width="126" height="62" fill="#D4451A"/><text x="579" y="520" fill="white" font-family="monospace" font-size="9" letter-spacing="1">ISSUE FOUND</text><text x="579" y="540" fill="white" font-family="Arial,sans-serif" font-size="12" font-weight="700">DOOR SEAL</text>
+<!-- report strip -->
+<rect x="106" y="705" width="548" height="48" fill="#1A1A1A"/><circle cx="128" cy="729" r="5" fill="#2D7A3A"/><text x="144" y="734" fill="white" font-family="Arial,sans-serif" font-size="11" font-weight="700" letter-spacing="1">SAFE CHECK IDENTIFIED</text><text x="574" y="734" fill="#A3A3A3" font-family="monospace" font-size="10">12 MIN</text>
+<text x="70" y="835" fill="#6B6B6B" font-family="monospace" font-size="10" letter-spacing="1.5">SYMPTOM → ASSESSMENT → RIGHT NEXT STEP</text>
+</svg>
